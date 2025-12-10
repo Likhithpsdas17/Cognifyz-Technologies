@@ -64,7 +64,7 @@ Open any `index.html` file in a browser to view the project.
 
 **LIKHITH P S DAS**  
 Front-End Development Intern – Cognifyz Technologies  
-GitHub: https://github.com/ Likhithpsdas17 
+GitHub: https://github.com/Likhithpsdas17/Cognifyz-Technologies 
 LinkedIn: https://www.linkedin.com/in/likhithpsdas?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Thank you to **Cognifyz Technologies** for the learning opportunity.
