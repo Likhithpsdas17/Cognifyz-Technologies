@@ -1,0 +1,12 @@
+$primary: #44e7d2;
+$secondary: #d8551d;
+$radius: 10px;
+
+body{
+    background: $primary;
+
+    h1 {
+        color: $secondary;
+        border-radius: $radius;
+    }
+}

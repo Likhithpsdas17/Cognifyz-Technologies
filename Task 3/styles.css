@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.parent {
+    display: flex;
+    gap: 20px;
+}
+
+.child {
+    width: 30%;
+    padding: 20px;
+    background: lightblue;
+    text-align: center;
+}
+
+/* Media Query */
+@media (max-width: 600px) {
+    .parent {
+        flex-direction: column;
+    }
+    .child {
+        width: 100%;
+    }
+}

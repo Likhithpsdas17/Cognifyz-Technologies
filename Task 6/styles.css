@@ -1,0 +1,29 @@
+form {
+    width: 300px;
+    padding: 20px;
+    background: #46c4ee;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 8px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background: #fff;
+    cursor: pointer; 
+}
+
+#errorMessage {
+    color: red;
+    margin-top: 10px;
+    font-weight: bold;
+}
